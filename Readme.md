@@ -1,4 +1,4 @@
-# Task_05_Descriptive_Stats
+# Task_04_05_Descriptive_Stats
 
 Research Task 5: Descriptive Statistics and Large Language Models — testing whether an LLM (Claude) can be trusted to reason about a real dataset, using my own code as the ground truth to check it against.
 
@@ -52,7 +52,7 @@ These were identified by manually inspecting the data first, before writing any 
 
 ## Model used
 
-Claude (claude.ai), tested in a single continuous chat thread, given `movies_2021_2024_clean.csv` as an attachment. Full detail on the exact model/version is in `prompt_log.md`.
+Claude AI. Claude Sonnet 5
 
 ## Phase A: Baseline Factual Q&A — summary
 
