@@ -1,0 +1,45 @@
+--- Top 5 genres by worldwide gross, 2021 ---
+  Adventure: $9,128,473,780
+  Action: $8,740,310,012
+  Science Fiction: $5,612,850,290
+  Comedy: $5,166,454,395
+  Drama: $4,850,851,846
+--- Top 5 genres by worldwide gross, 2022 ---
+  Action: $12,175,677,644
+  Adventure: $10,041,851,205
+  Science Fiction: $6,478,766,348
+  Comedy: $6,330,792,153
+  Drama: $5,364,727,570
+--- Top 5 genres by worldwide gross, 2023 ---
+  Action: $10,133,193,792
+  Adventure: $10,091,102,349
+  Comedy: $7,777,740,905
+  Fantasy: $5,406,013,385
+  Science Fiction: $5,360,649,395
+--- Top 5 genres by worldwide gross, 2024 ---
+  Comedy: $8,176,440,928
+  Adventure: $7,351,326,469
+  Action: $7,350,397,678
+  Science Fiction: $6,184,512,804
+  Family: $5,951,331,121
+
+--- Genre Dominance Scores (out of 4) ---
+Action: 4
+Adventure: 4
+Science Fiction: 4
+Comedy: 4
+Drama: 2
+Fantasy: 1
+Family: 1
+War: 0
+Thriller: 0
+Crime: 0
+Mystery: 0
+Animation: 0
+Music: 0
+Horror: 0
+History: 0
+Romance: 0
+Documentary: 0
+TV Movie: 0
+Western: 0
